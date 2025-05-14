@@ -1,6 +1,0 @@
-123456
-7891011
-<<<<<<< HEAD
-ddadasdadasdasda
-=======
->>>>>>> 69edf44 (add number update)
